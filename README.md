@@ -1,7 +1,7 @@
 # 맛나는 만남 (Meet & Eat) - A web platform for small gathers and exploring restaurants! Created by Team IIIIEE
 ![image](https://github.com/wecode-bootcamp-korea/47-2nd-IIIIEE-backend/assets/131442242/dd857a7d-8799-4377-b5ce-7364d624f668)
 
-#### \*[AirBnB](https://www.airbnb.com/) 웹사이트를 모델링한 프로젝트입니다.
+#### Modelled with inspiration from \*[AirBnB](https://www.airbnb.com/)
 
 ## 🐱 개발 기간 및 인원
 
