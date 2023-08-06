@@ -38,7 +38,9 @@
 6. Notification service that alerts guests two hours after the event to leave a review.
 
 ## 🙋🏻‍♀️ My Contributions
-Individually, I mainly focused on two key features: designing the service logic for joining events and implementing the KakaoPay API.
+As the project manager, I planned out the tasks to be completed during our two one-week sprints with the help of Slack, Notion, and Trello. I led the intial planning meetings, daily standup meetings, and retrospectives to keep our team on track for our goal and to reflect on areas where we could improve. I put great care into listening to our teammates' concerns and opinions and communicating updates in front of our team.
+
+As for the technical aspects, I made a total of 8 APIs. Below, I describe two key features I designed.
 
 1) Joining events: There were many points that I had to take into account to assure that the process of joining events could proceed smoothly, without bugs in the logic.
    - I made sure that the prospective guest had personal information that matched the crtieria of the event. For instance, we had saved information like age and gender of users in our database, and we also noted the age and gender preference of the event upon creation. Thus, I ensured that the age and gender of that prospective guest matched the event's. Otherwise, I prevented the user from being able to sign up for the event.
