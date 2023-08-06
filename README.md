@@ -3,6 +3,9 @@
 
 #### Modelled with inspiration from \*[AirBnB](https://www.airbnb.com/)
 
+## Our finished product
+[Click Me!](https://www.youtube.com/watch?v=rx7zdgdbR0s&ab_channel=%EC%B5%9C%EC%A7%84%EC%9D%B4)
+
 ## 🐱 Project Duration and Team Members
 
 - Project Duration : 2023/07/14 ~ 2023/07/28
@@ -28,7 +31,6 @@
 - Our Concept :
   - Any user can become a host and create an event posting to visit a specified restaurant on a specified time and set the gender and age criteria for their event's guest. Any user can also become a guest of events that fit their description, filter the restaurants and postings based on the food they want to eat and the types of people they want to see, and leave reviews for hosts after the events. A user can create posting for a fee, while partner restaurants pay a fee for our booking service. In this way, we act as a mediator between host and guests and a mediator between users and restaurants. 
     
-
 ## 💻 Key Features
 1. Social media signup/login through Kakao API
 2. Even posting service with customizable filters, tags, and image upload to Amazon E3
