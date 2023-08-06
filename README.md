@@ -4,7 +4,7 @@
 #### Modelled with inspiration from \*[AirBnB](https://www.airbnb.com/)
 
 ## Our finished product
-[Click Me!](https://www.youtube.com/watch?v=rx7zdgdbR0s&ab_channel=%EC%B5%9C%EC%A7%84%EC%9D%B4)
+[Link to video!](https://www.youtube.com/watch?v=rx7zdgdbR0s&ab_channel=%EC%B5%9C%EC%A7%84%EC%9D%B4)
 
 ## 🐱 Project Duration and Team Members
 
