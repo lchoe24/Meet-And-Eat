@@ -3,7 +3,7 @@
 
 #### Modelled with inspiration from \*[AirBnB](https://www.airbnb.com/)
 
-## 🐱 개발 기간 및 인원
+## 🐱 Project Duration and Team Members
 
 - Project Duration : 2023/07/14 ~ 2023/07/28
   
