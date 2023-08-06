@@ -34,10 +34,11 @@
 ## 💻 Key Features
 1. Social media signup/login through Kakao API
 2. Even posting service with customizable filters, tags, and image upload to Amazon E3
-3. Joining event service with logic to ensure that only those who match the event's criteria can join and users cannot join if the event is full
-4. Payment service through KakaoPay API for the purchasing of the event.
-5. Host review service where guests can rate the hosts after the event; harmful comments are prohibited out through a filtering method using TensorFlow
-6. Notification service that alerts guests two hours after the event to leave a review.
+3. Restaurant and event search service with filtering according to user's preferrences 
+4. Joining event service with logic to ensure that only those who match the event's criteria can join and users cannot join if the event is full
+5. Payment service through KakaoPay API for the purchasing of the event.
+6. Host review service where guests can rate the hosts after the event; harmful comments are prohibited out through a filtering method using TensorFlow
+7. Notification service that alerts guests two hours after the event to leave a review.
 
 ## 🙋🏻‍♀️ My Contributions
 As the project manager, I planned out the tasks to be completed during our two one-week sprints with the help of Slack, Notion, and Trello. I led the intial planning meetings, daily standup meetings, and retrospectives to keep our team on track for our goal and to reflect on areas where we could improve. I put great care into listening to our teammates' concerns and opinions and communicating updates in front of our team.
