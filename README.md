@@ -12,7 +12,7 @@
   
 - Team Members : 2 Front-End , 4 Back-end
   - Product Manager: <a href="https://github.com/Teachsue">김상원(B)</a><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Teachsue"/>
-  - Project Manager: <a href="https://github.com/lchoe24">최리나(B)</a><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/lchoe24"/> 
+  - Project Manager: <a href="https://github.com/lchoe24">🙋🏻‍♀️최리나(B)</a><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/lchoe24"/> 
   - Teammates: </br>
 <a href="https://github.com/donghyeun02">신동현(B)</a><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/donghyeun02"/></br>
 <a href="https://github.com/hjyang369">양회진(F)</a><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/hjyang369"/></br>
