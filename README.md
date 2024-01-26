@@ -26,10 +26,11 @@
 
 ## 💡 Service Introduction
 - Service Name : 맛나는 맛남 (Meet & Eat)
-- Our Product : A community that connects those who want to meet new people and enjoys eating out.
-- Our Customers : Community users who want to share their love of food with people and want to meet new friends. Partners who want to increase their restaurant publicity and accessibility by displaying their restaurant on our website.
-- Our Concept :
-  - Any user can become a host and create an event posting to visit a specified restaurant on a specified time and set the gender and age criteria for their event's guest. Any user can also become a guest of events that fit their description, filter the restaurants and postings based on the food they want to eat and the types of people they want to see, and leave reviews for hosts after the events. A user can create posting for a fee, while partner restaurants pay a fee for our booking service. In this way, we act as a mediator between host and guests and a mediator between users and restaurants. 
+- Product Overview: Meet & Eat is a vibrant community platform designed to connect culinary enthusiasts eager to explore dining out and meet new friends. Our service acts as a bridge, facilitating memorable meetups around the joy of food.
+- Target Audience:
+  - Community Users: Individuals passionate about food and eager to share dining experiences with new acquaintances.
+  - Partner Restaurants: Establishments looking to enhance their visibility and reach by featuring their venues on our platform, attracting a community of food lovers.
+- Core Concept: Meet & Eat offers a dynamic space where anyone can step into the role of a host, crafting event postings for dining at specific restaurants, complete with time, gender, and age preferences for attendees. Similarly, users can immerse themselves as guests in events that resonate with their culinary tastes and social preferences. The platform allows users to
     
 ## 💻 Key Features
 1. Social media signup/login through Kakao API
