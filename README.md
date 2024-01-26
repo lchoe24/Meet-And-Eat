@@ -30,8 +30,8 @@
 - Target Audience:
   - Community Users: Individuals passionate about food and eager to share dining experiences with new acquaintances.
   - Partner Restaurants: Establishments looking to enhance their visibility and reach by featuring their venues on our platform, attracting a community of food lovers.
-- Core Concept: Meet & Eat offers a dynamic space where anyone can step into the role of a host, crafting event postings for dining at specific restaurants, complete with time, gender, and age preferences for attendees. Similarly, users can immerse themselves as guests in events that resonate with their culinary tastes and social preferences. The platform allows users to
-    
+- Core Concept: Meet & Eat offers a dynamic space where anyone can step into the role of a host, crafting event postings for dining at specific restaurants, complete with time, gender, and age preferences for attendees. Similarly, users can immerse themselves as guests in events that resonate with their culinary tastes and social preferences.
+  
 ## 💻 Key Features
 1. Social media signup/login through Kakao API
 2. Even posting service with customizable filters, tags, and image upload to Amazon E3
