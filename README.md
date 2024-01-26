@@ -34,7 +34,7 @@
   
 ## 💻 Key Features
 1. Social media signup/login through Kakao API
-2. Even posting service with customizable filters, tags, and image upload to Amazon E3
+2. Event posting service with customizable filters, tags, and image upload to Amazon E3
 3. Restaurant and event search service with filtering according to user's preferrences 
 4. Joining event service with logic to ensure that only those who match the event's criteria can join and users cannot join if the event is full
 5. Payment service through KakaoPay API for the purchasing of the event.
