@@ -51,6 +51,9 @@ As for the technical aspects, I made a total of 8 APIs. Below, I describe two ke
      
 2) KakaoPay API: I integrated the KakaoPay API to streamline the payment process for event reservations. This involved creating a secure and efficient payment flow from the initial request on the front-end to confirming payment through KakaoPay and updating our database to reflect the transaction. This feature not only simplified the payment process for users but also added a layer of trust and professionalism to our platform.
 
+## 💭 Reflection
+This project was a comprehensive exercise in both project management and technical development. Leading a diverse team under tight deadlines taught me valuable lessons in agility, communication, and the importance of a user-centered approach in software development. On the technical front, working with a range of technologies from Node.js and MySQL to integrating third-party services like KakaoPay API expanded my skill set and deepened my understanding of developing scalable, user-friendly web applications
+
 ## 📚 Technical Tools
 
 ### Frontend
