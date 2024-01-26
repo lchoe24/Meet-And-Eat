@@ -26,7 +26,7 @@
 
 ## 💡 Service Introduction
 - Service Name : 맛나는 맛남 (Meet & Eat)
-- Product Overview: Meet & Eat is a vibrant community platform designed to bridge the gap between individuals looking for unique dining experiences and partner restaurants offering event hosting services. This platform not only facilitated restaurant discovery but also enabled users to join or host dining events, enhancing social connections and culinary exploration
+- Product Overview: Meet & Eat is a vibrant community platform designed to bridge the gap between individuals looking for unique dining experiences and partner restaurants offering event hosting services. This platform facilitates restaurant discovery and enables users to join or host dining events, enhancing social connections and culinary exploration
 - Target Audience:
   - Community Users: Individuals passionate about food and eager to share dining experiences with new acquaintances.
   - Partner Restaurants: Establishments looking to enhance their visibility and reach by featuring their venues on our platform, attracting a community of food lovers.
