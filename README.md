@@ -45,11 +45,11 @@ As the project manager, I planned out the tasks to be completed during our two o
 
 As for the technical aspects, I made a total of 8 APIs. Below, I describe two key features I designed.
 
-1) Joining events: There were many points that I had to take into account to assure that the process of joining events could proceed smoothly, without bugs in the logic.
+1) Joining events: I developed a robust system ensuring that event join requests were processed accurately, considering the host's criteria for age and gender, and managing event capacity. This required careful logic to prevent overbooking and to enforce event criteria, enhancing user experience by ensuring events matched their preferences and expectations.
    - I made sure that the prospective guest had personal information that matched the crtieria of the event. For instance, we had saved information like age and gender of users in our database, and we also noted the age and gender preference of the event upon creation. Thus, I ensured that the age and gender of that prospective guest matched the event's. Otherwise, I prevented the user from being able to sign up for the event.
    - I made sure that the number of guests did not exceed the number of guests that the host allows for the event. Whenever a user joined an event, I checked to see if adding that user as a guest would cause the event to be full afterwards. If it did turn out to be full, I changed the event status to 'full' in our database, and thus prohibited any new users from joining.
      
-2) KakaoPay API: I implemented this API to allow a simple and quick method for hosts to purchase events. When a host desires to purchase an event, they utilize the initial payment request API shown on the front-end. I created an API that receives the necessary payment information from the front end, then use Axios to send a request to the KakaoPay confirmation API to assure that the payment was processed correctly. Once I receive a successful response from the KakaoPay API, I change the event status to 'purchased' and parse the response data to save the order and payment information in our database.
+2) KakaoPay API: I integrated the KakaoPay API to streamline the payment process for event reservations. This involved creating a secure and efficient payment flow from the initial request on the front-end to confirming payment through KakaoPay and updating our database to reflect the transaction. This feature not only simplified the payment process for users but also added a layer of trust and professionalism to our platform.
 
 ## 📚 Technical Tools
 
